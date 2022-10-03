@@ -61,6 +61,8 @@ https://docs.github.com/en/billing/managing-billing-for-github-actions/about-bil
 
 # **Modules**
 - ### **Module 01** - Pandas and ML Pipelines in Python. Write your first serverless App.
+![iris-feature-and-prediction-pipelines](https://github.com/maco-data/serverless-ml-course/actions/workflows/features-and-predictions.yml/badge.svg)
+![pages-build-deployment](https://github.com/maco-data/serverless-ml-course/actions/workflows/pages/pages-build-deployment/badge.svg)
 - ### **Module 02** - Feature Store and Model Registry. Credit-card fraud prediction service. 
 - ### **Module 03** - Training Pipelines and Inference Pipelines.
 - ### **Module 04** - Bring a Prediction Service to Life with a User Interface.
