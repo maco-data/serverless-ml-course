@@ -97,6 +97,21 @@ https://docs.github.com/en/billing/managing-billing-for-github-actions/about-bil
 [Hopsworks.ai](https://app.hopsworks.ai) has a free tier of 10 GB of storage.
 <br/><br/>
 
+<<<<<<< HEAD
+=======
+# **Modules**
+- ### **Module 01** - Pandas and ML Pipelines in Python. Write your first serverless App.
+![iris-feature-and-prediction-pipelines](https://github.com/maco-data/serverless-ml-course/actions/workflows/features-and-predictions.yml/badge.svg)
+![pages-build-deployment](https://github.com/maco-data/serverless-ml-course/actions/workflows/pages/pages-build-deployment/badge.svg)
+- ### **Module 02** - Feature Store and Model Registry. Credit-card fraud prediction service. 
+- ### **Module 03** - Training Pipelines and Inference Pipelines.
+- ### **Module 04** - Bring a Prediction Service to Life with a User Interface.
+- ### **Module 05** - Automated Testing and Versioning of features and models.
+- ### **Module 06** - Real-time serverless machine learning systems. Project presentation.
+
+Lectures are streamed on Zoom weekly and published on our youtube channel.
+
+>>>>>>> 2ae1c7159c9a5ff115501b284bfcbec29e36eb81
 ---
 
 ## **Useful Resources**
