@@ -7,10 +7,7 @@ plotly
 Pillow
 seaborn
 dataframe-image
-<<<<<<< HEAD
 jupyterlab
 confluent-kafka
-=======
 streamlit_folium
 plotly
->>>>>>> b4345e11337341fd38b1d878e9de85a5a59a2888
