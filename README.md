@@ -1,14 +1,52 @@
 ![readme header](/assets//images/card_horizontal.jpg)
 
+
+<a href="https://join.slack.com/t/featurestoreorg/shared_invite/zt-ssh8dec1-IsvwLdTsRMssjT4~Ru2RKg" alt="slack"> <img src="https://img.shields.io/badge/Join Slack-blue.svg?logo=slack" /></a> 
+<a href="https://www.youtube.com/channel/UC-LrK8ei6w57RmKeswkU23Q" alt="youtube"> <img src="https://img.shields.io/badge/Youtube-red.svg?logo=Youtube" /></a>
+
+
 # **[Beyond Notebooks - Serverless ML](https://www.serverless-ml.org)**
 ***Build Batch and Real-Time Prediction Services with Python***
 
-## **Overview**
+![serverless architecture](/assets/images/serverless-ml-architecture.svg "Serverless Architecture")
+
+# **Overview**
 You should not need to be an expert in Kubernetes or cloud computing to build an end-to-end service that makes intelligent decisions with the help of a ML model. Serverless ML makes it easy to build a system that uses ML models to make predictions. 
 
 You do not need to install, upgrade, or operate any systems. You only need to be able to write Python programs that can be scheduled to run as pipelines. The features and models your pipelines produce are managed by a serverless feature store / model registry. We will also show you how to build a UI for your prediction service by writing Python and some HTML.
 
 **Prerequisites:** Python - Pandas - Github 
+
+# **Modules**
+- ## **Module 00** - Introduction and optional content.
+   - Why Serverless ML: [Video](https://www.youtube.com/watch?v=zM2_m898P5g) | [Slides](https://drive.google.com/file/d/15gwryDoHq88tgxu8CoCbTqr5L9YN9O5p/view?usp=sharing)
+   - Introduction to the course: [Video](https://www.youtube.com/watch?v=FM1YkIl1wXI&list=PLMeDf8qRRqgU_-erq30v-k8_it4pOqhoQ&index=3) | [slides](https://drive.google.com/file/d/1a5uZHhVSUyxxjrESFea9vONovKROra4L/view?usp=sharing)
+   - Development Environment & Platforms [Video](https://www.youtube.com/watch?v=9kNjky0MQtc&list=PLMeDf8qRRqgU_-erq30v-k8_it4pOqhoQ&index=3) | [slides](https://drive.google.com/file/d/1LTTHkwV8RirYaz1MeZtoYgTc9TRSrBwr/view?usp=sharing)
+
+   - ***Introduction to Machine Learning (ML 101)*** [Video](https://www.youtube.com/watch?v=RmAGTZ7dy58&list=PLMeDf8qRRqgU_-erq30v-k8_it4pOqhoQ&index=4) | [slides](https://drive.google.com/file/d/1HXsrSRPcBMW53lgnBnYb95m5eS9oLqRk/view?usp=sharing)
+   
+- ## **Module 01** - Pandas and ML Pipelines in Python. Write your first serverless App.
+  - Full Lecture: [Video](https://www.youtube.com/watch?v=j-XnCflCc0I) | [Slides](https://drive.google.com/file/d/1L8DHGC5xo0NlNe8xfh4xf4NZV1CEGBA6/view?usp=sharing)
+
+  - [Lab](https://www.youtube.com/watch?v=zAD3miW0Og0) | [Slides](https://drive.google.com/file/d/1hve9nVrImRhNE8lE26zPcr3X1DDDk7uD/view?usp=sharing)  | [Homework form](https://forms.gle/2p5odBdpAqvavH1T7)
+  
+- ## **Module 02** - Data modeling and the Feature Store. The Credit-card fraud prediction service. 
+    - Full Lecture: [Video](https://youtu.be/tpxZh8lbcBk) | [Slides](https://drive.google.com/file/d/1HgAKsHnOms1XCtl_KIEuELudTLtDkhxk/view?usp=sharing)
+    
+    - [Lab](https://www.youtube.com/watch?v=niPayagVxFg) | [Slides](https://drive.google.com/file/d/1_1oDN5nfpWSUpKNlls45HLllQ75yAWd-/view?usp=sharing) | [Homework form](https://forms.gle/5g9XtaeBEigKEirGA)
+- ## **Module 03** - Training Pipelines, Inference Pipelines, and the Model Registry.
+    - Full lecture: [Video](https://youtu.be/BD1UOJs1Bvo) | [Slides](https://drive.google.com/file/d/1XhfnH7DzwDqQKS6WxDVqWFFas0fi_jnJ/view?usp=sharing)
+
+    - [Lab](https://youtu.be/QfzrKgLqEXc) | [Slides](https://drive.google.com/file/d/1jITx5HGh2uM5vAeknvCaeN6ZPOc2i8AS/view?usp=sharing)
+- ## **Module 04** - Serverless User Interfaces for Machine Learning Systems.
+    - Full lecture: [Video](https://youtu.be/GgwIspMUovM) | [Slides](https://drive.google.com/file/d/10JzJCDwi6IPnJNZ0iApzbwACkAn3C9Y9/view?usp=sharing)
+
+    - [Lab](https://youtu.be/sMhCXwm_Wmw) | [Slides](https://drive.google.com/file/d/1bASaZN68__Ut0RnSuTvhF8LKn240UPtE/view?usp=sharing)
+
+- #### **Module 05** - Automated Testing and Versioning of features and models.
+- #### **Module 06** - Real-time serverless machine learning systems. Project presentation.
+
+---
 
 ## **Learning Outcomes:**
 - Learn to develop and operate AI-enabled (prediction) services on serverless infrastructure
@@ -58,16 +96,6 @@ https://docs.github.com/en/billing/managing-billing-for-github-actions/about-bil
 ## **Hopsworks**
 [Hopsworks.ai](https://app.hopsworks.ai) has a free tier of 10 GB of storage.
 <br/><br/>
-
-# **Modules**
-- ### **Module 01** - Pandas and ML Pipelines in Python. Write your first serverless App.
-- ### **Module 02** - Feature Store and Model Registry. Credit-card fraud prediction service. 
-- ### **Module 03** - Training Pipelines and Inference Pipelines.
-- ### **Module 04** - Bring a Prediction Service to Life with a User Interface.
-- ### **Module 05** - Automated Testing and Versioning of features and models.
-- ### **Module 06** - Real-time serverless machine learning systems. Project presentation.
-
-Lectures are streamed on Zoom weekly and published on our youtube channel.
 
 ---
 
